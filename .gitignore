@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/HoudiniEngine/Temp/starfield/C03C02C8/starfield_22_30_0_main_geo_HSM.uasset
+Content/HoudiniEngine/Temp/space_nebula/E0B4F12A/space_nebula_21_11_0_main_geo.uasset
+Content/HoudiniEngine/Temp/space_nebula/E0B4F12A/space_nebula_21_11_0_main_geo_HSM.uasset
+Content/HoudiniEngine/Temp/starfield/C03C02C8/starfield_22_30_0_main_geo.uasset
